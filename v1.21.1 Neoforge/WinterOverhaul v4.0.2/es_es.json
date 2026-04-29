@@ -1,0 +1,29 @@
+{
+  "itemGroup.winteroverhaul": "Winter Overhaul",
+
+  "item.winteroverhaul.skates": "Patines de hielo",
+  "item.winteroverhaul.yellow_scarf": "Bufanda amarilla",
+  "item.winteroverhaul.red_scarf": "Bufanda roja",
+  "item.winteroverhaul.cyan_scarf": "Bufanda cian",
+  "item.winteroverhaul.green_scarf": "Bufanda verde",
+  "item.winteroverhaul.top_hat": "Sombrero de copa",
+  "item.winteroverhaul.yellow_winter_hat": "Gorro de invierno amarillo",
+  "item.winteroverhaul.red_winter_hat": "Gorro de invierno rojo",
+  "item.winteroverhaul.cyan_winter_hat": "Gorro de invierno cian",
+  "item.winteroverhaul.green_winter_hat": "Gorro de invierno verde",
+
+  "item.winteroverhaul.upgrade.header": "Al tenerlo el gólem de nieve:",
+  "item.winteroverhaul.yellow_winter_hat.desc": "Cuerpo ignífugo",
+  "item.winteroverhaul.yellow_scarf.desc": "Cuerpo ignífugo",
+  "item.winteroverhaul.red_scarf.desc": "x2 daño de bola de nieve",
+  "item.winteroverhaul.red_winter_hat.desc": "x2 daño de bola de nieve",
+  "item.winteroverhaul.cyan_scarf.desc": "2x cadencia de bola de nieve",
+  "item.winteroverhaul.cyan_winter_hat.desc": "2x cadencia de bola de nieve",
+  "item.winteroverhaul.green_scarf.desc": "x1.5 rango de bola de nieve",
+  "item.winteroverhaul.green_winter_hat.desc": "x1.5 rango de bola de nieve",
+  "item.winteroverhaul.top_hat.desc": "x2 vida y regeneración rápida",
+
+  "subtitles.winteroverhaul.entity.robin.ambient": "Robin Chirps",
+  "item.winteroverhaul.robin_spawn_egg": "Generar petirrojo",
+  "entity.winteroverhaul.robin": "Petirrojo"
+}
